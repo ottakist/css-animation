@@ -1,3 +1,3 @@
 #animation project 
 svg-animations,keyframes,potrace
-[view-project](https://beautiful-unicorn-9fab28.netlify.app/)
+[view-project](https://deft-lokum-5b0767.netlify.app/)
